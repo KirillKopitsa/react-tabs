@@ -6,3 +6,5 @@ In the project directory, you should run:
 $ npm install
 $ npm start
 ```
+
+Demo: https://kirillkopitsa.github.io/react-tabs/
